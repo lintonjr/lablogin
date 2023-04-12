@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090812777129",
+    "project_id": "login-firebase-b3cf5",
+    "storage_bucket": "login-firebase-b3cf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090812777129:android:f26048757fece48ac38fb8",
+        "android_client_info": {
+          "package_name": "com.login.lablogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090812777129-3u85iqk5024a96p313doiggptrov029j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsu8WsEoJJXEkU6hLDB97fboHfGy1Nf2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090812777129-3u85iqk5024a96p313doiggptrov029j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
