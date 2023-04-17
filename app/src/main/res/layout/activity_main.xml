@@ -111,7 +111,7 @@
         />
 
     <TextView
-        android:id="@+id/toLogin"
+        android:id="@+id/toReg"
         android:textStyle="bold"
         android:textSize="20sp"
         android:layout_width="match_parent"
